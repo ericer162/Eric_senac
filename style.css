@@ -1,0 +1,12 @@
+body{
+    background-color: linear-gradient(purple,red);
+    background-repeat: no-repeat;
+}
+
+.oculta{
+    display: none;
+}
+
+img{
+    width: 200px;
+}
